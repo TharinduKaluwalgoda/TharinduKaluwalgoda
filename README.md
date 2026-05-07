@@ -4,9 +4,10 @@
 ---
 
 ## 💫 About Me
-I’m a software engineering undergraduate who enjoys building modern web applications and exploring how technology can solve real-world problems. I have a strong interest in AI development and chatbot systems.
+I’m a Software Engineering undergraduate who enjoys building modern web applications and exploring how technology can solve real-world problems. I’m passionate about creating user-friendly, responsive, and efficient digital experiences that combine clean design with practical functionality. I have a strong interest in AI development and chatbot systems, and I enjoy learning about emerging technologies and how they can be used to build smarter and more innovative solutions.
 
-I’m a fast learner, cautious in my approach, creative in problem-solving, and highly focused on improving my development skills every day.
+I’m a fast learner, creative problem-solver, and detail-oriented developer who is constantly focused on improving my skills and expanding my knowledge every day.
+
 
 ---
 
